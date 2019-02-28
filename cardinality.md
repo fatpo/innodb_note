@@ -1,4 +1,4 @@
-# Innodb Cardinality
+# Innodb 索引列的Cardinality
 ## 目的
 ```
 拒绝低选择性 如性别，可能筛选出来50%的rows
